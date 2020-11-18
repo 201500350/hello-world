@@ -1,2 +1,2 @@
-# labs
-IT8108 - Mobile Programming Labs
+# Hello World
+this is a test hello world repo.
